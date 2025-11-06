@@ -5,8 +5,8 @@
   <br/>
 </p>
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/android-interview?style=for-the-badge)](https://github.com/your-username/android-interview/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/android-interview?style=for-the-badge)](https://github.com/your-username/android-interview/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/mukundjogi/android-interview?style=for-the-badge)](https://github.com/mukundjogi/android-interview)
+[![GitHub Forks](https://img.shields.io/github/forks/mukundjogi/android-interview?style=for-the-badge)](https://github.com/mukundjogi/android-interview/network/members)
 [![Total Questions](https://img.shields.io/badge/questions-120%2B-success?style=for-the-badge)](docs/QUESTIONS_INDEX.md)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -88,20 +88,6 @@ This is the most comprehensive Android Interview Preparation repository availabl
 - 📕 [Advanced Topics](docs/advanced-topics.md)
 - 📕 [Gradle & Maven](docs/gradle-maven.md)
 - 📕 [Publishing to Play Store](docs/publishing-play-store.md)
-
-## 💼 Success Stories
-
-### 👨‍💻 **Rahul** - Software Engineer at Google
-> "This guide helped me understand the depth of Android architecture patterns. The MVI examples were particularly helpful for my interview at Google."
-
-### 👩‍💻 **Priya** - Senior Android Developer at Meta
-> "The coroutines and flows section was comprehensive. I was able to answer complex async programming questions confidently."
-
-### 👨‍💻 **Amit** - Tech Lead at Amazon
-> "Best resource for Android interviews. The architecture patterns and practical examples helped me land the Tech Lead role."
-
-### 👩‍💻 **Sneha** - Senior Engineer at Netflix
-> "The Play Store publishing section was detailed and helped me discuss app distribution strategies in my interview."
 
 ## 📖 How to Use This Guide
 
@@ -197,8 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/android-interview/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/android-interview/discussions)
+- **Issues**: [GitHub Issues](https://github.com/mukundjogi/android-interview/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mukundjogi/android-interview/discussions)
 - **Email**: your-email@example.com
 
 ---

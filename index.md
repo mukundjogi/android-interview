@@ -1,8 +1,3 @@
----
-layout: default
-title: "Android Interview Preparation Guide"
----
-
 # Android Interview Preparation Guide
 
 <div align="center">
@@ -55,19 +50,6 @@ Deep dive into: [Android KMM](docs/android-kmm.md) → [Gradle & Maven](docs/gra
 - **15 Comprehensive Topics** covering all Android aspects
 - **50+ Architecture Patterns** explained with examples
 - **30+ Best Practices** from industry experts
-
-## 🏆 Success Stories
-
-This guide has helped developers land positions at:
-- Google Android Team
-- Meta (Facebook)
-- Amazon
-- Netflix
-- Uber
-- Airbnb
-- Spotify
-- Microsoft
-- And many more...
 
 ## 💡 How to Use This Guide
 

@@ -36,7 +36,7 @@ We welcome contributions in the following areas:
 ### Step 1: Fork the Repository
 ```bash
 # Fork the repository on GitHub
-git clone https://github.com/your-username/android-interview.git
+git clone https://github.com/mukundjogi/android-interview.git
 cd android-interview
 ```
 
