@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/mukundjogi/android-interview/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/mukundjogi/android-interview/discussions)
-- **Email**: your-email@example.com
+- **Email**: jogimukund@gmail.com
 
 ---
 
